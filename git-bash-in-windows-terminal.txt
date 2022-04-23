@@ -1,0 +1,38 @@
+Adding git bash to Windows Terminal
+======================================
+
+
+https://executecommands.com/add-git-bash-to-windows-terminal-app-profile/
+https://www.guidgenerator.com/online-guid-generator.aspx
+https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration
+https://medium.com/@techpreacher/using-git-bash-with-the-microsoft-terminal-bd1f71fa17a1
+
+
+======================================
+
+{
+     // Git-Bash profile
+    "guid": "{NEW GUID}",
+    "name": "profile-name",
+    "commandline": "PATH TO BASH.exe"
+},
+
+
+
+{b7810ed0-7143-4343-81cd-b8247de869cd}
+Git-Bash
+C:\\Program Files\\Git\\bin\\bash.exe
+
+“C:\\Program Files\\Git\\bin\\bash.exe”
+
+
+
+
+{
+     // Git-Bash profile
+    "guid": "{b7810ed0-7143-4343-81cd-b8247de869cd}",
+    "name": "Git-Bash",
+    "commandline": "C:\\Program Files\\Git\\bin\\bash.exe"
+},
+
+
